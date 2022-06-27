@@ -1,0 +1,122 @@
+.headingdiv{ 
+    display: flex;
+    padding-bottom: 20px;
+    padding-left: 70px;
+    justify-content: space-between;
+    border-bottom: 10px solid orangered;
+    background-color: rgb(98, 3, 3)
+
+    
+}
+*{
+    margin: 0cm; 
+}
+.frontend{
+    color: white;
+    font-family: arial;
+}
+.masters{
+    color: rgb(237, 6, 6);
+    font-family:Viner Hand ITC;
+    font-size: 40px;
+}
+.links{
+    font-size: 20px;
+    display: inline-block;
+}
+ul{
+    display: flex;
+    list-style: none;
+    padding-right: 2cm;
+}
+li{
+ padding-left: 20px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    background-color: rgb(246, 33, 33);
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 50px;
+}
+body{
+    background-color: rgb(39, 38, 38);
+}
+.form{
+    padding-left: 400px;
+}
+.username{
+    color: white;
+    font-family: arial;
+
+}
+.recall{
+    color: white;
+    font-family: arial;
+    text-decoration: none;
+}
+.redo{
+    color: rgb(238, 33, 33);
+    font-family: arial;
+}
+.button2{
+    text-decoration: none;
+    color: white;
+    padding: 60px 30px 60px 30px;
+    border-radius: 40%;
+}
+input{
+    color: white;
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+}
+.shanon{
+    background-color: black;
+    padding-left: 10px;
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 23px;
+}
+
+.footer2{
+    display: flex;
+    padding-left: 70px;
+}
+.logo5{
+    padding-left: 70px;
+}
+.hlogos{
+    padding-top: 23px;
+}
+.forgot{
+    color: white;
+}
+.button2{
+    padding: 40px 15px;
+}
+.footerdiv{
+    padding-top: 90px;
+}
+p{
+    color: white;
+}
+.com{
+    color: tomato;
+    text-decoration: none;
+}
+.comment{
+    display: flex;
+    justify-content: space-between;
+}
+.support{
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.mail{
+    color: white;
+}
